@@ -71,7 +71,7 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Bootstrap Accordion](https://getbootstrap.com/docs/5.1/components/accordion/)
 
 
 ## Author
